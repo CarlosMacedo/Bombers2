@@ -2,6 +2,7 @@
 
 <strong>
   Game made for college discipline.
+  
   Watch the video of the game in action here: https://www.youtube.com/watch?v=2GsfSToA0T8
  </strong>
 
