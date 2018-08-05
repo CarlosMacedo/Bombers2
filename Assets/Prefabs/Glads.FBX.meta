@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 37fb0c0199d5ae94ea778710a462bbbf
+timeCreated: 1460849496
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DrawCall_0146
+    100004: jiggle1A
+    100006: jiggle1B
+    100008: jiggle1C
+    100010: jiggle2A
+    100012: jiggle2B
+    100014: jiggle2C
+    100016: jiggle3A
+    100018: jiggle3B
+    100020: jiggle3C
+    100022: jiggle4A
+    100024: jiggle4B
+    100026: jiggle4C
+    100028: jiggleleg
+    100030: smdimport
+    100032: ValveBiped.attachment_armR_T
+    100034: ValveBiped.Bip01_Head1
+    100036: ValveBiped.Bip01_L_Clavicle
+    100038: ValveBiped.Bip01_L_Elbow
+    100040: ValveBiped.Bip01_L_Finger1
+    100042: ValveBiped.Bip01_L_Finger11
+    100044: ValveBiped.Bip01_L_Finger12
+    100046: ValveBiped.Bip01_L_Finger2
+    100048: ValveBiped.Bip01_L_Finger21
+    100050: ValveBiped.Bip01_L_Finger22
+    100052: ValveBiped.Bip01_L_Finger3
+    100054: ValveBiped.Bip01_L_Finger31
+    100056: ValveBiped.Bip01_L_Finger32
+    100058: ValveBiped.Bip01_L_Forearm
+    100060: ValveBiped.Bip01_L_Hand
+    100062: ValveBiped.Bip01_L_Knee
+    100064: ValveBiped.Bip01_L_Thigh
+    100066: ValveBiped.Bip01_L_Ulna
+    100068: ValveBiped.Bip01_L_UpperArm
+    100070: ValveBiped.Bip01_L_Wrist
+    100072: ValveBiped.Bip01_Neck1
+    100074: ValveBiped.Bip01_Pelvis
+    100076: ValveBiped.Bip01_R_Clavicle
+    100078: ValveBiped.Bip01_R_Elbow
+    100080: ValveBiped.Bip01_R_Finger1
+    100082: ValveBiped.Bip01_R_Finger11
+    100084: ValveBiped.Bip01_R_Finger12
+    100086: ValveBiped.Bip01_R_Finger2
+    100088: ValveBiped.Bip01_R_Finger21
+    100090: ValveBiped.Bip01_R_Finger22
+    100092: ValveBiped.Bip01_R_Finger3
+    100094: ValveBiped.Bip01_R_Finger31
+    100096: ValveBiped.Bip01_R_Finger32
+    100098: ValveBiped.Bip01_R_Forearm
+    100100: ValveBiped.Bip01_R_Hand
+    100102: ValveBiped.Bip01_R_Ulna
+    100104: ValveBiped.Bip01_R_UpperArm
+    100106: ValveBiped.Bip01_R_Wrist
+    100108: ValveBiped.Bip01_Spine
+    100110: ValveBiped.Bip01_Spine1
+    100112: ValveBiped.Bip01_Spine2
+    100114: ValveBiped.Bip01_Spine4
+    100116: ValveBiped.forward
+    100118: ValveBiped.weapon_bone
+    100120: ValveBiped.weapon_bone_Clip
+    100122: ValveBiped.weapon_bone_extra
+    400000: //RootNode
+    400002: DrawCall_0146
+    400004: jiggle1A
+    400006: jiggle1B
+    400008: jiggle1C
+    400010: jiggle2A
+    400012: jiggle2B
+    400014: jiggle2C
+    400016: jiggle3A
+    400018: jiggle3B
+    400020: jiggle3C
+    400022: jiggle4A
+    400024: jiggle4B
+    400026: jiggle4C
+    400028: jiggleleg
+    400030: smdimport
+    400032: ValveBiped.attachment_armR_T
+    400034: ValveBiped.Bip01_Head1
+    400036: ValveBiped.Bip01_L_Clavicle
+    400038: ValveBiped.Bip01_L_Elbow
+    400040: ValveBiped.Bip01_L_Finger1
+    400042: ValveBiped.Bip01_L_Finger11
+    400044: ValveBiped.Bip01_L_Finger12
+    400046: ValveBiped.Bip01_L_Finger2
+    400048: ValveBiped.Bip01_L_Finger21
+    400050: ValveBiped.Bip01_L_Finger22
+    400052: ValveBiped.Bip01_L_Finger3
+    400054: ValveBiped.Bip01_L_Finger31
+    400056: ValveBiped.Bip01_L_Finger32
+    400058: ValveBiped.Bip01_L_Forearm
+    400060: ValveBiped.Bip01_L_Hand
+    400062: ValveBiped.Bip01_L_Knee
+    400064: ValveBiped.Bip01_L_Thigh
+    400066: ValveBiped.Bip01_L_Ulna
+    400068: ValveBiped.Bip01_L_UpperArm
+    400070: ValveBiped.Bip01_L_Wrist
+    400072: ValveBiped.Bip01_Neck1
+    400074: ValveBiped.Bip01_Pelvis
+    400076: ValveBiped.Bip01_R_Clavicle
+    400078: ValveBiped.Bip01_R_Elbow
+    400080: ValveBiped.Bip01_R_Finger1
+    400082: ValveBiped.Bip01_R_Finger11
+    400084: ValveBiped.Bip01_R_Finger12
+    400086: ValveBiped.Bip01_R_Finger2
+    400088: ValveBiped.Bip01_R_Finger21
+    400090: ValveBiped.Bip01_R_Finger22
+    400092: ValveBiped.Bip01_R_Finger3
+    400094: ValveBiped.Bip01_R_Finger31
+    400096: ValveBiped.Bip01_R_Finger32
+    400098: ValveBiped.Bip01_R_Forearm
+    400100: ValveBiped.Bip01_R_Hand
+    400102: ValveBiped.Bip01_R_Ulna
+    400104: ValveBiped.Bip01_R_UpperArm
+    400106: ValveBiped.Bip01_R_Wrist
+    400108: ValveBiped.Bip01_Spine
+    400110: ValveBiped.Bip01_Spine1
+    400112: ValveBiped.Bip01_Spine2
+    400114: ValveBiped.Bip01_Spine4
+    400116: ValveBiped.forward
+    400118: ValveBiped.weapon_bone
+    400120: ValveBiped.weapon_bone_Clip
+    400122: ValveBiped.weapon_bone_extra
+    4300000: smdimport
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: smdimport
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
